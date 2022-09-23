@@ -181,7 +181,7 @@ function Navbar() {
                                     </a>
                                 </li>
                                 <li className="nav-item">
-                                    <a href='#/'  className="btn btn-primary d-sm-inline-block d-none">Generate Report<i className="las la-signal ms-3 scale5"></i></a>
+                                    <a href='#/' className="btn btn-primary d-sm-inline-block d-none">Generate Report<i className="las la-signal ms-3 scale5"></i></a>
                                 </li>
                             </ul>
                         </div>
